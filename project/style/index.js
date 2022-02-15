@@ -9,7 +9,7 @@ export const GlobalStyle = createGlobalStyle`
       src: url(/fonts/Caveat-VariableFont_wght.woff2) format("woff2");
     }
     body {
-        // adding display: flex here creates a flash of the fallback font
+        // comment out display: flex to get rid of the bug
         display: flex;
         font-family: 'Caveat', Arial;
     }

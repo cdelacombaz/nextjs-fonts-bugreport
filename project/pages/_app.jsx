@@ -1,4 +1,3 @@
-// import '../style/global.css'
 import {ThemeProvider} from 'styled-components'
 
 import {GlobalStyle, defaultTheme} from '../style'

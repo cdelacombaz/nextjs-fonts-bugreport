@@ -12,6 +12,8 @@ export const GlobalStyle = createGlobalStyle`
         // adding display: flex here creates a flash of the fallback font
         display: flex;
         font-family: 'Caveat', Arial;
+        //margin: 0;
+        //padding: 0;
     }
 `
 

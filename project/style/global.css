@@ -6,6 +6,7 @@
     src: url(/fonts/Caveat-VariableFont_wght.woff2) format("woff2");
 }
 
-body {
-    font-family: 'Caveat', 'Brush Script MT';
-}
+/*body {*/
+/*    display: flex;*/
+/*    font-family: 'Caveat', Arial;*/
+/*}*/
